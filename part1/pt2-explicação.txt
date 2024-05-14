@@ -1,0 +1,18 @@
+
+COMPILAÇÃO
+
+O começo de nome de classe é sempre com letra maiuscula.
+
+public class OlaDevDojo {
+	public static void main (String[] args){  <-- Começa com S maiuscula e coloque o args  no final.
+		System.out.println("Ola Mundo!"); <--Assim é o print,  O ponto e virgula indica que a linha acabou.
+	}
+}
+
+
+Agora salve sempre como tipo: todos os arquivos.
+
+O nome do arquivo sempre tem que ser o nome da classe. nesse caso OlaDevDojo.java   <-- sempre o .java no final
+
+
+

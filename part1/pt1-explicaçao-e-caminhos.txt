@@ -1,0 +1,34 @@
+JAVA faz a comunicação entre computador e aplicações.
+
+fizeram a jvm para fazer as traduções entre sistemas.
+
+JVM(Java Virtual Machine) Faz a tradução de um aplicativo para varios sistemas como windows, linux e MacOS.
+
+É uma linguagem compilada.  Passa por um processo de mudança para checar se tem algo errado.
+
+passa assim: App.java >> app.class >> java virtual machine >> sistema operacionais. atraves do javac.
+
+JDK - Java development kit
+
+JRE - Java Runtime Enviroment - caso nao queria desenvolver na maquina.
+
+linguagme de alto nivel  - consegue entender oque está escrito.
+
+baixo nivel - dificil entender porém roda melhor na maquina.
+
+pode abrir o cmd pela barra de endereço.
+
+abra o cmd na pasta bin do java e digitie java ou javac. no prompt de comando.
+
+java -version para ver a versão.
+
+C:\Program Files\Java\jdk-22  <-- é o java home
+
+Abra editar variaveis de ambient no windows. clicle em variaveis de ambient
+
+cliquem em novo e coloque o nome JAVA_HOME e coloque o endeço exato C:\Program Files\Java\jdk-22
+o caminho do java atual. e assim aplicações vão procurar isso.
+
+clique em editar- patch e crie %JAVA_HOME%\bin
+
+assim de qualquer ponto pode acessar o JAVA no prompt. E TER ACESSO AO CONTEUDO DA PASTA.
