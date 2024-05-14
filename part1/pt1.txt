@@ -1,0 +1,16 @@
+
+JAVA faz a comunicação entre computador e aplicações.
+
+fizeram a jvm para fazer as traduções entre sistemas.
+
+JVM(Java Virtual Machine) Faz a tradução de um aplicativo para varios sistemas como windows, linux e MacOS.
+
+É uma linguagem compilada.  Passa por um processo de mudança para checar se tem algo errado.
+
+passa assim: App.java >> app.class >> java virtual machine >> sistema operacionais. atraves do javac.
+
+
+JDK - Java development kit
+
+JRE - Java Runtime Enviroment - caso nao queria desenvolver na maquina.
+
