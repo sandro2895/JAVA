@@ -1,0 +1,23 @@
+
+
+psvm e enter <--- Já cria um public static void main(String[] args)
+
+Tipos primitivos: int, double, float, char, byte, short, long, boolean. 8 no total.
+
+Usan camel case : Quando apartir da segunda letra é maiuscula.
+
+criando uma variavel int - inteiro.
+
+int myAge = 28;  <-- sempre tem que representar o valor primitivo.
+
+System.out.println(myAge);  <--Representando em um print.
+
+exemplo string:
+
+String myName = "doca";
+        System.out.println(myName);
+
+
+Concatenação:
+
+ System.out.println("Minha idade é " + myAge);  <--Coloque entre aspas duplas e com um + em seguida.

@@ -1,0 +1,43 @@
+baixe a IDE IntelliJ Community
+
+deixe 64 bits de acordo com o sistema.
+
+Use key promoter X
+
+Installe Kotlin
+
+Crie o projeto e abra no explorer.
+
+Para criar um arquivo crie na pasta src 
+
+NA aba Build: em Build project cria o arquivo class.
+
+e assim fica na pasta out.
+
+crie o package na pasta src.
+
+exemplo academia.pacote  <-- deixe . para ser como o endereço;
+
+Deixe e crie as classes dentro desse pacote.
+
+e agora vai ter package academia.pacote; emcima
+
+CTRL + F9 coloca no out de novo. build project.
+
+
+Deixando comentarios;
+
+Tem o comentário em linha //
+exemplo:
+// Comentário
+
+/* <--É o comentario de mais de uma linha.
+/*
+Comentario de mais de uma linha.
+ */
+
+Comentario java doc é com /**  <-- Dois asteriscos. E assim pode ser minimizado.
+Dessa forma: Isso é um comentário <b>javadoc</b>  <-- com html.
+
+
+

@@ -14,5 +14,20 @@ Agora salve sempre como tipo: todos os arquivos.
 
 O nome do arquivo sempre tem que ser o nome da classe. nesse caso OlaDevDojo.java   <-- sempre o .java no final
 
+Abra o terminal na pasta onde ficou o arquivo.
+
+digite javac e coloque o exato nome do arquivo: OlaDevDojo.java
+
+Assim vai criar um arquivo class.
+
+e esse é o byte code. e vai estar em linguagem de maquina.
+
+em seguida digite no cmd:java OlaDevDojo para abrir o arquivo. Sem o .class - Assim passa o arquivo para JVM.
+java Variavel <--para mostrar no terminal.
+
+Para sempre atualizar o arquivo inicie: javac OlaDevDojo.java no terminal.
+
+
+Sempre leia as mensagens de erro.
 
 
