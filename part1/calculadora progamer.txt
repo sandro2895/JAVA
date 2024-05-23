@@ -1,0 +1,5 @@
+
+
+Abra a calculadora no windows e coloque na barra  para selecionar progama
+
+e ver os tipos de dados

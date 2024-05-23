@@ -1,0 +1,37 @@
+
+Tipo primitivo double:
+double salarioDouble = 2000.50D; <-- D especifica que é um double 
+
+-Acomoda 8 bytes
+
+Tipo primitivo float:
+ um double pode ficar como float.
+-Acomoda 4 bytes
+float salarioFloat = 2500.0f; <-- f especifica que é um float.
+
+Tipo primitivo byte:
+
+-Acomoda 1 byte
+
+Vai ate 127
+
+Tipo primitivo short:
+
+-Acomoda 2 bytes
+
+Tipo primitivo boolean:
+
+-Acomoda 1 bytes
+
+Tipo primitivo long:
+-Pode colocar uma maior quantidade de valor dentro de uma variável.
+long numeroGrande = 10000L; <-- L especifica que é um long.
+
+-Acomoda 8 bytes
+
+Tipo primitivo char:
+-Coloca somente uma letra e também pode ser um número.
+-Colocar oque tem na tabela ASCII. exemplo: 65 = a . também pode ser usado a barra unicode.
+-Acomoda 2 bytes
+
+A diferença  é a quantidade de valor que pode ser colocado com exceção do boolean.
