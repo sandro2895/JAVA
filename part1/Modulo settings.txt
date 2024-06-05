@@ -1,0 +1,9 @@
+
+
+Clicando com o botão direto em algum projeto e indo em modulo settings.
+
+Project settings >> Project >> Language level pode ser mudado o nivel da linguagem
+
+Pode ser bom mudar para a linguagem 8 do java.
+
+Pode ser Mudado em Project settings >> Modules também.

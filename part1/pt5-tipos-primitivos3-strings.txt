@@ -1,0 +1,12 @@
+
+String apesar de ser usado no java, não é um tipo primitivo.
+
+exemplo:
+
+String name = "doca"   <-- o tipo seguido do nome da variável. e depois o valor em aspas duplas
+
+Pode ser colocado um grande texto
+
+sout e em seguida TAB escreve o System.out.Println Rapidamente.
+
+var nome2 = " Goku "  <--Pode ser usado assim para omitir o tipo da variável.

@@ -35,3 +35,18 @@ Tipo primitivo char:
 -Acomoda 2 bytes
 
 A diferença  é a quantidade de valor que pode ser colocado com exceção do boolean.
+
+
+
+int myAge = (int) 28888888888L;  <--Isso força a ser um long mesmo sendo um int com o (int) e o l no final.
+
+Assim o bits vão ser cortados quando for mostrado no terminal.
+
+
+
+float salarioFloat = (float) 2500.0d; <-- Forçando um double a ser um float, sempre bote em parenteses o tipo.
+
+Pode ser util fazer o casting algumas vezes.
+
+
+long numeroGrande = (long) 155.23; <--long dessa forma ignora o número com ponto flutuante
